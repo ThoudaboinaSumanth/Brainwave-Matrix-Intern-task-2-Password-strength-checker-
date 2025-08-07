@@ -39,10 +39,8 @@ A simple Flask web app to evaluate password strength based on length, complexity
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ThoudabinaSumanth/password-strength-checker.git
-cd password-strength-checker
-```
-
+git clone https://github.com/ThoudabinaSumanth/Brainwave-Matrix-Intern-task-2-Password-strength-checker ```
+cd Brainwave-Matrix-Intern-task-2-Password-strength-checker
 ### ✅ 2. Install Dependencies
 
 ```bash
